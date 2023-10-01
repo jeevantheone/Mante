@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="wrapper">
       <div className="page">
-        <div className="header">Mante Cellular</div>
         <BrowserRouter>
           <Routes>
             <Route>
